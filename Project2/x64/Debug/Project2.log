@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Batra\OneDrive\Рабочий стол\sfml\Project2\main.cpp(14,27): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+C:\Users\Batra\OneDrive\Рабочий стол\sfml\Project2\main.cpp(14,13): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+  Project2.vcxproj -> C:\Users\Batra\OneDrive\Рабочий стол\sfml\Project2\x64\Debug\Project2.exe
